@@ -1,5 +1,4 @@
-server.port=8092
-spring.application.name=jobservice-prod
+
 build:
   version: 1.0
 accounts:
