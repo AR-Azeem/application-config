@@ -1,9 +1,9 @@
 
 build:
   version: 98.0
-accounts:
+cards:
   message: "Welcome to ARA QA cards rest api"
-  contactDetails:
+  contact:
     name: "{cipher}d7d3834acf7b8a2f083506c5d634717d85b2b276cd6450a199a181c4d028d2a367ad1dc1d3047a0edab4f1d66a8c2ab7"
     email: "cardsQA@gmail.com"
   onCallSupport:
