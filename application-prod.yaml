@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to Easybank Prod accounts rest api"
   contactDetails:
-    name: "File Steffen Prehl"
+    name: "{cipher}d7d3834acf7b8a2f083506c5d634717d85b2b276cd6450a199a181c4d028d2a367ad1dc1d3047a0edab4f1d66a8c2ab7"
     email: "John@gmail.com"
   onCallSupport:
     - 9876543210
