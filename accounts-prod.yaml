@@ -2,10 +2,10 @@
 build:
   version: 11
 accounts:
-  message: "Hello Accoynt user , Welcome to ARA Production accounts rest api services"
+  message: "Hello Account user , Welcome to ARA Production accounts rest api services"
   contactDetails:
     name: "{cipher}d7d3834acf7b8a2f083506c5d634717d85b2b276cd6450a199a181c4d028d2a367ad1dc1d3047a0edab4f1d66a8c2ab7"
-    email: "John@gmail.com"
+    email: "abdul@gmail.com"
   onCallSupport:
     - 9876543210
     - 8888888888
